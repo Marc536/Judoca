@@ -1,6 +1,6 @@
 package org.fpij.jitakyoei.model.beans;
 
-import org.fpij.jitakyoei.model.validator.AlunoValidator;
+import ..src.org.fpij.jitakyoei.model.validator.AlunoValidator;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import utils.GenerateObjects;

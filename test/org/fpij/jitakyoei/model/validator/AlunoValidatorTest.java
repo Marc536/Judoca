@@ -1,8 +1,8 @@
 package org.fpij.jitakyoei.model.validator;
 
-import org.fpij.jitakyoei.model.beans.Aluno;
-import org.fpij.jitakyoei.model.dao.DAO;
-import org.fpij.jitakyoei.model.dao.DAOImpl;
+import ..src.org.fpij.jitakyoei.model.beans.Aluno;
+import ..src.org.fpij.jitakyoei.model.dao.DAO;
+import ..src.org.fpij.jitakyoei.model.dao.DAOImpl;
 import org.junit.Test;
 import utils.GenerateObjects;
 

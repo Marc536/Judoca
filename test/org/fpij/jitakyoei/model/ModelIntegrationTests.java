@@ -2,15 +2,15 @@ package org.fpij.jitakyoei.model;
 
 import java.util.Date;
 
-import org.fpij.jitakyoei.model.beans.Aluno;
-import org.fpij.jitakyoei.model.beans.Endereco;
-import org.fpij.jitakyoei.model.beans.Entidade;
-import org.fpij.jitakyoei.model.beans.Filiado;
-import org.fpij.jitakyoei.model.beans.Professor;
-import org.fpij.jitakyoei.model.beans.Rg;
-import org.fpij.jitakyoei.model.dao.DAO;
-import org.fpij.jitakyoei.model.dao.DAOImpl;
-import org.fpij.jitakyoei.util.DatabaseManager;
+import ..src.org.fpij.jitakyoei.model.beans.Aluno;
+import ..src.org.fpij.jitakyoei.model.beans.Endereco;
+import ..src.org.fpij.jitakyoei.model.beans.Entidade;
+import ..src.org.fpij.jitakyoei.model.beans.Filiado;
+import ..src.org.fpij.jitakyoei.model.beans.Professor;
+import ..src.org.fpij.jitakyoei.model.beans.Rg;
+import ..src.org.fpij.jitakyoei.model.dao.DAO;
+import ..src.org.fpij.jitakyoei.model.dao.DAOImpl;
+import ..src.org.fpij.jitakyoei.util.DatabaseManager;
 import org.junit.BeforeClass;
 
 public class ModelIntegrationTests {
